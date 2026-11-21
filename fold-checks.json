@@ -1,0 +1,584 @@
+{
+  "image": {
+    "format": "PNG",
+    "width": 1024,
+    "height": 1024,
+    "mode": "RGB",
+    "bytes": 110413
+  },
+  "checks": [
+    {
+      "panel": 1,
+      "kind": "lead",
+      "field": "kicker",
+      "text": "POLAND  |  RUSSIA",
+      "width": 748,
+      "lines": 1,
+      "limit": 1,
+      "wrapped": [
+        "POLAND  |  RUSSIA"
+      ],
+      "font_px": 15,
+      "passes": true,
+      "changed": false,
+      "attempts": [
+        {
+          "text": "POLAND  |  RUSSIA",
+          "width": 748,
+          "lines": 1
+        }
+      ],
+      "max_ink_right": 211,
+      "max_ink_bottom": 191
+    },
+    {
+      "panel": 1,
+      "kind": "lead",
+      "field": "headline",
+      "text": "RUSSIAN MISSILES LAND IN POLAND",
+      "width": 748,
+      "lines": 2,
+      "limit": 2,
+      "wrapped": [
+        "RUSSIAN MISSILES",
+        "LAND IN POLAND"
+      ],
+      "font_px": 40,
+      "passes": true,
+      "changed": false,
+      "attempts": [
+        {
+          "text": "RUSSIAN MISSILES LAND IN POLAND",
+          "width": 748,
+          "lines": 2
+        }
+      ],
+      "max_ink_right": 471,
+      "max_ink_bottom": 279
+    },
+    {
+      "panel": 1,
+      "kind": "lead",
+      "field": "sub",
+      "text": "Suspected Russian missiles and a drone come down in the south-east; Tusk: \"an intentional provocation\"; Rutte: \"grave violation.\"",
+      "width": 748,
+      "lines": 2,
+      "limit": 2,
+      "wrapped": [
+        "Suspected Russian missiles and a drone come down in the south-east;",
+        "Tusk: \"an intentional provocation\"; Rutte: \"grave violation.\""
+      ],
+      "font_px": 21,
+      "passes": true,
+      "changed": false,
+      "attempts": [
+        {
+          "text": "Suspected Russian missiles and a drone come down in the south-east; Tusk: \"an intentional provocation\"; Rutte: \"grave violation.\"",
+          "width": 748,
+          "lines": 2
+        }
+      ],
+      "max_ink_right": 792,
+      "max_ink_bottom": 347
+    },
+    {
+      "panel": 2,
+      "kind": "grid",
+      "field": "kicker",
+      "text": "UNITED STATES  |  WHITE HOUSE",
+      "width": 334,
+      "lines": 1,
+      "limit": 1,
+      "wrapped": [
+        "UNITED STATES  |  WHITE HOUSE"
+      ],
+      "font_px": 15,
+      "passes": true,
+      "changed": false,
+      "attempts": [
+        {
+          "text": "UNITED STATES  |  WHITE HOUSE",
+          "width": 334,
+          "lines": 1
+        }
+      ],
+      "max_ink_right": 327,
+      "max_ink_bottom": 413
+    },
+    {
+      "panel": 2,
+      "kind": "grid",
+      "field": "headline",
+      "text": "FIRST PRESSER SINCE MIDTERMS",
+      "width": 334,
+      "lines": 2,
+      "limit": 2,
+      "wrapped": [
+        "FIRST PRESSER SINCE",
+        "MIDTERMS"
+      ],
+      "font_px": 26,
+      "passes": true,
+      "changed": false,
+      "attempts": [
+        {
+          "text": "FIRST PRESSER SINCE MIDTERMS",
+          "width": 334,
+          "lines": 2
+        }
+      ],
+      "max_ink_right": 372,
+      "max_ink_bottom": 475
+    },
+    {
+      "panel": 2,
+      "kind": "grid",
+      "field": "sub",
+      "text": "Healthcare deal eyed; \"tremendous tax\" on AI data centres abroad.",
+      "width": 334,
+      "lines": 2,
+      "limit": 2,
+      "wrapped": [
+        "Healthcare deal eyed; \"tremendous",
+        "tax\" on AI data centres abroad."
+      ],
+      "font_px": 18,
+      "passes": true,
+      "changed": false,
+      "attempts": [
+        {
+          "text": "Healthcare deal eyed; \"tremendous tax\" on AI data centres abroad.",
+          "width": 334,
+          "lines": 2
+        }
+      ],
+      "max_ink_right": 373,
+      "max_ink_bottom": 531
+    },
+    {
+      "panel": 3,
+      "kind": "grid",
+      "field": "kicker",
+      "text": "MARKETS  |  WALL STREET",
+      "width": 334,
+      "lines": 1,
+      "limit": 1,
+      "wrapped": [
+        "MARKETS  |  WALL STREET"
+      ],
+      "font_px": 15,
+      "passes": true,
+      "changed": false,
+      "attempts": [
+        {
+          "text": "MARKETS  |  WALL STREET",
+          "width": 334,
+          "lines": 1
+        }
+      ],
+      "max_ink_right": 757,
+      "max_ink_bottom": 413
+    },
+    {
+      "panel": 3,
+      "kind": "grid",
+      "field": "headline",
+      "text": "S&P 500 SINKS INTO CORRECTION",
+      "width": 334,
+      "lines": 2,
+      "limit": 2,
+      "wrapped": [
+        "S&P 500 SINKS INTO",
+        "CORRECTION"
+      ],
+      "font_px": 26,
+      "passes": true,
+      "changed": false,
+      "attempts": [
+        {
+          "text": "S&P 500 SINKS INTO CORRECTION",
+          "width": 334,
+          "lines": 2
+        }
+      ],
+      "max_ink_right": 836,
+      "max_ink_bottom": 475
+    },
+    {
+      "panel": 3,
+      "kind": "grid",
+      "field": "sub",
+      "text": "S&P 500 falls 3.7% on Friday; Anthropic slides on day two.",
+      "width": 334,
+      "lines": 2,
+      "limit": 2,
+      "wrapped": [
+        "S&P 500 falls 3.7% on Friday;",
+        "Anthropic slides on day two."
+      ],
+      "font_px": 18,
+      "passes": true,
+      "changed": false,
+      "attempts": [
+        {
+          "text": "S&P 500 falls 3.7% on Friday; Anthropic slides on day two.",
+          "width": 334,
+          "lines": 2
+        }
+      ],
+      "max_ink_right": 799,
+      "max_ink_bottom": 535
+    },
+    {
+      "panel": 4,
+      "kind": "grid",
+      "field": "kicker",
+      "text": "INDIA  |  WEATHER",
+      "width": 334,
+      "lines": 1,
+      "limit": 1,
+      "wrapped": [
+        "INDIA  |  WEATHER"
+      ],
+      "font_px": 15,
+      "passes": true,
+      "changed": false,
+      "attempts": [
+        {
+          "text": "INDIA  |  WEATHER",
+          "width": 334,
+          "lines": 1
+        }
+      ],
+      "max_ink_right": 208,
+      "max_ink_bottom": 609
+    },
+    {
+      "panel": 4,
+      "kind": "grid",
+      "field": "headline",
+      "text": "AKVAN HITS INDIA, NO DEATHS REPORTED",
+      "width": 334,
+      "lines": 2,
+      "limit": 2,
+      "wrapped": [
+        "AKVAN HITS INDIA, NO",
+        "DEATHS REPORTED"
+      ],
+      "font_px": 26,
+      "passes": true,
+      "changed": false,
+      "attempts": [
+        {
+          "text": "AKVAN HITS INDIA, NO DEATHS REPORTED",
+          "width": 334,
+          "lines": 2
+        }
+      ],
+      "max_ink_right": 385,
+      "max_ink_bottom": 671
+    },
+    {
+      "panel": 4,
+      "kind": "grid",
+      "field": "sub",
+      "text": "Landfall near Gopalpur; 372,000 evacuated, no deaths reported.",
+      "width": 334,
+      "lines": 2,
+      "limit": 2,
+      "wrapped": [
+        "Landfall near Gopalpur; 372,000",
+        "evacuated, no deaths reported."
+      ],
+      "font_px": 18,
+      "passes": true,
+      "changed": false,
+      "attempts": [
+        {
+          "text": "Landfall near Gopalpur; 372,000 evacuated, no deaths reported.",
+          "width": 334,
+          "lines": 2
+        }
+      ],
+      "max_ink_right": 345,
+      "max_ink_bottom": 731
+    },
+    {
+      "panel": 5,
+      "kind": "grid",
+      "field": "kicker",
+      "text": "PERU  |  EARTHQUAKE",
+      "width": 334,
+      "lines": 1,
+      "limit": 1,
+      "wrapped": [
+        "PERU  |  EARTHQUAKE"
+      ],
+      "font_px": 15,
+      "passes": true,
+      "changed": false,
+      "attempts": [
+        {
+          "text": "PERU  |  EARTHQUAKE",
+          "width": 334,
+          "lines": 1
+        }
+      ],
+      "max_ink_right": 719,
+      "max_ink_bottom": 609
+    },
+    {
+      "panel": 5,
+      "kind": "grid",
+      "field": "headline",
+      "text": "6.7 QUAKE SHAKES CENTRAL PERU",
+      "width": 334,
+      "lines": 2,
+      "limit": 2,
+      "wrapped": [
+        "6.7 QUAKE SHAKES",
+        "CENTRAL PERU"
+      ],
+      "font_px": 26,
+      "passes": true,
+      "changed": false,
+      "attempts": [
+        {
+          "text": "6.7 QUAKE SHAKES CENTRAL PERU",
+          "width": 334,
+          "lines": 2
+        }
+      ],
+      "max_ink_right": 816,
+      "max_ink_bottom": 671
+    },
+    {
+      "panel": 5,
+      "kind": "grid",
+      "field": "sub",
+      "text": "Felt in Lima; no casualties or major damage reported.",
+      "width": 334,
+      "lines": 2,
+      "limit": 2,
+      "wrapped": [
+        "Felt in Lima; no casualties or major",
+        "damage reported."
+      ],
+      "font_px": 18,
+      "passes": true,
+      "changed": false,
+      "attempts": [
+        {
+          "text": "Felt in Lima; no casualties or major damage reported.",
+          "width": 334,
+          "lines": 2
+        }
+      ],
+      "max_ink_right": 851,
+      "max_ink_bottom": 731
+    },
+    {
+      "panel": 6,
+      "kind": "band",
+      "field": "kicker",
+      "text": "CULTURE  |  GAMES",
+      "width": 778,
+      "lines": 1,
+      "limit": 1,
+      "wrapped": [
+        "CULTURE  |  GAMES"
+      ],
+      "font_px": 15,
+      "passes": true,
+      "changed": false,
+      "attempts": [
+        {
+          "text": "CULTURE  |  GAMES",
+          "width": 778,
+          "lines": 1
+        }
+      ],
+      "max_ink_right": 213,
+      "max_ink_bottom": 805
+    },
+    {
+      "panel": 6,
+      "kind": "band",
+      "field": "headline",
+      "text": "GTA VI: $3.79BN IN ONE DAY",
+      "width": 778,
+      "lines": 1,
+      "limit": 1,
+      "wrapped": [
+        "GTA VI: $3.79BN IN ONE DAY"
+      ],
+      "font_px": 28,
+      "passes": true,
+      "changed": false,
+      "attempts": [
+        {
+          "text": "GTA VI: $3.79BN IN ONE DAY",
+          "width": 778,
+          "lines": 1
+        }
+      ],
+      "max_ink_right": 502,
+      "max_ink_bottom": 838
+    },
+    {
+      "panel": 6,
+      "kind": "band",
+      "field": "sub",
+      "text": "Take-Two announced on Friday that day-one retail sales set the record for any entertainment launch; 32.5m copies sold before release.",
+      "width": 778,
+      "lines": 2,
+      "limit": 2,
+      "wrapped": [
+        "Take-Two announced on Friday that day-one retail sales set the record for any",
+        "entertainment launch; 32.5m copies sold before release."
+      ],
+      "font_px": 18,
+      "passes": true,
+      "changed": false,
+      "attempts": [
+        {
+          "text": "Take-Two announced on Friday that day-one retail sales set the record for any entertainment launch; 32.5m copies sold before release.",
+          "width": 778,
+          "lines": 2
+        }
+      ],
+      "max_ink_right": 751,
+      "max_ink_bottom": 892
+    },
+    {
+      "panel": "footer",
+      "field": "ALSO",
+      "text": "ALSO TODAY:  UK and EU seal food, carbon and youth deals  •  Hayabusa2 drops asteroid landing  •  Trump pardons Pete Rose",
+      "width": 952,
+      "lines": 2,
+      "limit": 2,
+      "wrapped": [
+        "ALSO TODAY:  UK and EU seal food, carbon and youth deals  •",
+        "Hayabusa2 drops asteroid landing  •  Trump pardons Pete Rose"
+      ],
+      "passes": true
+    }
+  ],
+  "reservations": [
+    {
+      "panel": 1,
+      "box": [
+        36,
+        160,
+        988,
+        370
+      ],
+      "padding": 16,
+      "icon_width": 160,
+      "gap": 12,
+      "text_width": 748,
+      "icon_box": [
+        812,
+        176,
+        972,
+        354
+      ]
+    },
+    {
+      "panel": 2,
+      "box": [
+        36,
+        382,
+        506,
+        566
+      ],
+      "padding": 16,
+      "icon_width": 94,
+      "gap": 10,
+      "text_width": 334,
+      "icon_box": [
+        396,
+        398,
+        490,
+        550
+      ]
+    },
+    {
+      "panel": 3,
+      "box": [
+        518,
+        382,
+        988,
+        566
+      ],
+      "padding": 16,
+      "icon_width": 94,
+      "gap": 10,
+      "text_width": 334,
+      "icon_box": [
+        878,
+        398,
+        972,
+        550
+      ]
+    },
+    {
+      "panel": 4,
+      "box": [
+        36,
+        578,
+        506,
+        762
+      ],
+      "padding": 16,
+      "icon_width": 94,
+      "gap": 10,
+      "text_width": 334,
+      "icon_box": [
+        396,
+        594,
+        490,
+        746
+      ]
+    },
+    {
+      "panel": 5,
+      "box": [
+        518,
+        578,
+        988,
+        762
+      ],
+      "padding": 16,
+      "icon_width": 94,
+      "gap": 10,
+      "text_width": 334,
+      "icon_box": [
+        878,
+        594,
+        972,
+        746
+      ]
+    },
+    {
+      "panel": 6,
+      "box": [
+        36,
+        774,
+        988,
+        910
+      ],
+      "padding": 16,
+      "icon_width": 130,
+      "gap": 12,
+      "text_width": 778,
+      "icon_box": [
+        842,
+        790,
+        972,
+        894
+      ]
+    }
+  ],
+  "no_overlap": true
+}
